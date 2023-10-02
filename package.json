@@ -1,0 +1,16 @@
+{
+  "name": "@jgraham/notenv",
+  "version": "1.0.0",
+  "description": "Replicating dotenv",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/jgraham77",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
